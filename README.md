@@ -4,5 +4,5 @@
 
 ### Notebooks
 - Load Data into Snowflake
---  Brief demo of how I would take some data and programatically load into Snowflake database
+  - Brief demo of how I would take some data and programatically load into Snowflake database
 
