@@ -1,6 +1,6 @@
-# Interview Prep
+# Demo Projects
 
-- This repository is a compilation of some potential interview question or some interview questions that I actually recieved
+- This repository is a compilation of some small projects I have worked on personally or for some interview prep
 
 ### Check out my notebooks
 - Load Data into Snowflake
