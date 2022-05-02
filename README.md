@@ -1,6 +1,6 @@
 # Demo Projects
 
-- This repository is a compilation of some small projects I have worked on personally or for some interview prep
+- This repository is a compilation of some small projects I have worked on 
 
 ### Check out my notebooks
 - Load Data into Snowflake
